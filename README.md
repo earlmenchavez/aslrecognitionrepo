@@ -43,5 +43,5 @@ pandas 1.5.2
 
 Original implementation of I3D by deepmind https://github.com/deepmind/kinetics-i3d
 
-Keras video classification framework https://github.com/netonion/keras-video-classification
+CNN+RNN framework using Keras https://github.com/netonion/keras-video-classification
 
