@@ -20,15 +20,23 @@ YoutubeDataset10_csv_files folder contains all the dataframe for all kfold combi
 
 Dependencies:
 
+opencv-python 4.6.0.66
+
 jupyterlab 3.3.2
 
 python 3.9.12
 
 keras 2.6.0
 
-numpy 1.22.3
+numpy 1.23.4
 
 tensorflow 2.6.0
 
 tensorflow-gpu 2.6.0
+
+matplotlib 3.6.2
+
+pandas 1.5.2
+
+
 
