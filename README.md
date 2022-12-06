@@ -38,5 +38,9 @@ matplotlib 3.6.2
 
 pandas 1.5.2
 
+Supplement code:
 
+Original implementation of I3D by deepmind https://github.com/deepmind/kinetics-i3d
+
+Keras video classification framework https://github.com/netonion/keras-video-classification
 
