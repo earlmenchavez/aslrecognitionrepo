@@ -12,7 +12,7 @@ https://drive.google.com/drive/folders/1g0ay5C0M2Yi2GpxCe-Kbz8al4Q5z8ZtJ?usp=sha
 
 ## Folders
 
-Models folder contains all the aggregrated code used in the implementation of Dynamic ASL Recognition using Deep Learning. It was implemented using Tensorflow Keras in python.
+ASL_recognition_models folder contains all the aggregrated code used in the implementation of Dynamic ASL Recognition using Deep Learning. It was implemented using Tensorflow Keras in python.
 
 CustomDataset10_csv_files folder contains all the dataframes for all kfold combinations of the CustomDataset10 dataset used in the experiments in .csv format.
 
