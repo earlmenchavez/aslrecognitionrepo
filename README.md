@@ -47,3 +47,5 @@ Original implementation of I3D by deepmind https://github.com/deepmind/kinetics-
 
 CNN+RNN framework using Keras https://github.com/netonion/keras-video-classification
 
+Keras functional API https://github.com/keras-team/keras-io/blob/master/guides/functional_api.py
+
