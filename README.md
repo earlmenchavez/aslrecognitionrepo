@@ -1,5 +1,5 @@
 # aslrecognitionrepo
-This repository contains all the source code used in the paper "Dynamic ASL Recognition using Deep Learning " by Menchavez et al., 2022
+This repository contains all the source code used in the paper "Dynamic ASL Recognition using Deep Learning " by Menchavez et al., 2022.
 
 
 The contents of the YoutubeDataset10 can be accessed through this link:
