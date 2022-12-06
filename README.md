@@ -1,7 +1,7 @@
 # ASL recognition using Deep learning
 This repository contains all the source code used in the paper "Dynamic ASL Recognition using Deep Learning " by Menchavez et al., 2022.
 
-# Datasets
+## Datasets
 
 The contents of the YoutubeDataset10 can be accessed through this link:
 https://drive.google.com/drive/folders/13jFErtqzMozU__DJlioBLWK2X8DzKwYw?usp=share_link
@@ -10,7 +10,7 @@ The contents of the CustomDataset10 can be accessed through this link:
 https://drive.google.com/drive/folders/1g0ay5C0M2Yi2GpxCe-Kbz8al4Q5z8ZtJ?usp=share_link
 
 
-# Folders
+## Folders
 
 Models folder contains all the aggregrated code used in the implementation of American Sign Language recognition using transfer learning. It was implemented using Tensorflow Keras in python.
 
@@ -39,7 +39,7 @@ matplotlib 3.6.2
 
 pandas 1.5.2
 
-## Supplement code:
+## Supplement code
 
 Original implementation of I3D by deepmind https://github.com/deepmind/kinetics-i3d
 
