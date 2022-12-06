@@ -1,4 +1,4 @@
-# ASL recognition using Deep learning
+# Dynamic ASL recognition using Deep learning
 This repository contains all the source code used in the paper "Dynamic ASL Recognition using Deep Learning " by Menchavez et al., 2022.
 
 Please refer to the paper's methodology chapter for the implementation.
