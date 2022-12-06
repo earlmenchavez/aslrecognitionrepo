@@ -16,3 +16,19 @@ Models folder contains all the aggregrated code used in the implementation of Am
 CustomDataset10_csv_files folder contains all the dataframe for all kfold combinations of the CustomDataset10 dataset in .csv format.
 
 YoutubeDataset10_csv_files folder contains all the dataframe for all kfold combinations of the YoutubeDataset10 dataset in .csv format.
+
+
+Dependencies:
+
+jupyterlab 3.3.2
+
+python 3.9.12
+
+keras 2.6.0
+
+numpy 1.22.3
+
+tensorflow 2.6.0
+
+tensorflow-gpu 2.6.0
+
